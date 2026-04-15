@@ -65,4 +65,4 @@ This dashboard demonstrates how macroeconomic factors impact financial markets a
 
 ## 🔗 Connect with Me
 
-LinkedIn: (add your profile link)
+LinkedIn: https://www.linkedin.com/in/karishma-s-a080ab315/
