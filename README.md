@@ -1,36 +1,51 @@
 # 📊 Stock Market vs Inflation Dashboard (1870–2024)
 
+An interactive financial dashboard built using **Tableau** to analyze the long-term relationship between the stock market and inflation.
+
+This project highlights how **macroeconomic factors like CPI and interest rates** influence market performance over time and emphasizes the importance of long-term investing.
+
+---
+
 ## 📌 Project Overview
 
-This project explores the long-term relationship between the stock market and inflation using historical financial data from 1870 to 2024.
+Financial markets are influenced by multiple economic indicators, but one key question remains:
 
-The goal of this dashboard is to understand how key economic indicators like inflation and interest rates influence stock market performance over time, and to highlight the importance of long-term investing.
+👉 Does the stock market actually beat inflation in the long run?
+
+This dashboard explores:
+- Stock market growth over 150+ years 📈  
+- Inflation trends using CPI 📊  
+- Interest rate fluctuations 📉  
+- Investment indicators like Dividend & PE10 ratio 📌  
+
+The objective is to provide a clear, visual understanding of how economic factors shape market behavior over time.
 
 ---
 
 ## 🚀 Key Features
 
-- 📈 Long-term S&P 500 trend analysis  
-- 📊 Comparison of stock market growth vs inflation (CPI)  
-- 📉 Visualization of interest rate fluctuations  
-- 📌 KPI indicators for quick understanding  
-- 📊 Additional insights using Dividend and PE10 ratio  
+✔️ Long-term S&P 500 trend analysis  
+✔️ Stock market vs inflation comparison (CPI)  
+✔️ Interest rate trend visualization  
+✔️ KPI indicators for quick insights  
+✔️ Dividend and PE10 ratio analysis  
+✔️ Clean and interactive dashboard design  
 
 ---
 
 ## 🛠️ Tools Used
 
-- Tableau (Dashboard creation)  
-- Data Visualization  
-- Financial Data Analysis  
+- 📊 Tableau  
+- 📈 Data Visualization  
+- 📉 Financial Data Analysis  
 
 ---
 
-## 📂 Dataset
+## 📂 Dataset Information
 
 The dataset used in this project was sourced from a public GitHub repository containing historical financial data.
 
-### Dataset includes:
+### Features included:
 - S&P 500 Index  
 - Consumer Price Index (CPI)  
 - Long-term Interest Rates  
@@ -38,31 +53,56 @@ The dataset used in this project was sourced from a public GitHub repository con
 - PE10 Ratio  
 
 ### Data Preparation:
-- Cleaned missing values  
-- Converted date columns for time-series analysis  
+- Handling missing values  
+- Formatting date columns for time-series analysis  
 
 ---
 
-## 📊 Live Dashboard
+## 📊 Dashboard Preview
 
-You can explore the interactive dashboard here:
+![Dashboard Preview](dashboard.png)
 
-🔗 https://public.tableau.com/app/profile/karishma.s8771/viz/StockMarketAnalysisDashboard_17761463714560/StockMarketAnalysis?publish=yes
-
----
-
-## 💡 Key Insight
-
-The analysis shows that over the long term, the stock market has consistently outperformed inflation, reinforcing the importance of long-term investing strategies.
+> Replace **dashboard.png** with your actual image file name  
+> (Example: stock_dashboard.png)
 
 ---
 
-## 📌 Conclusion
+## 🌐 Live Dashboard
 
-This dashboard demonstrates how macroeconomic factors impact financial markets and provides a clear visual understanding of long-term investment behavior.
+👉 https://public.tableau.com/app/profile/karishma.s8771/viz/StockMarketAnalysisDashboard_17761463714560/StockMarketAnalysis?publish=yes  
 
 ---
 
-## 🔗 Connect with Me
+## 🎯 Key Insights
 
-LinkedIn: https://www.linkedin.com/in/karishma-s-a080ab315/
+- 📈 The stock market has consistently outperformed inflation over the long term  
+- 📊 Inflation impacts short-term market fluctuations  
+- 📉 Interest rate changes influence market trends  
+- 📌 Long-term investing reduces the impact of volatility  
+
+---
+
+## 💡 Conclusion
+
+This dashboard demonstrates how macroeconomic indicators affect financial markets and reinforces the importance of long-term investment strategies.
+
+---
+
+## 👩‍💻 Author
+
+Karishma S  
+Data Analytics Enthusiast  
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub and share your feedback!
+
+---
+
+## 📬 Contact
+
+LinkedIn: https://www.linkedin.com/in/karishma-s-a080ab315/  
+
+Feel free to connect for collaboration or opportunities 🚀
